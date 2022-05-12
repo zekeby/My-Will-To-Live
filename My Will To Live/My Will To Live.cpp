@@ -12,7 +12,7 @@ int main() {
 
     cout << "C++ Calculator\n";
 
-
+// calculator
     while (true) {
         cin >> num1 >> op >> num2;
 
